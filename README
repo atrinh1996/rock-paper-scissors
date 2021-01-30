@@ -1,0 +1,32 @@
+#
+# README
+#
+# Author: Amy B.
+#
+
+PURPOSE
+---------------------------
+    Play rock-paper-scissors with user, and keeps track of 
+    score. 
+
+ACKNOWLEDGEMENTS
+---------------------------
+    Python exercise taken from:
+        Automate the Boring Stuff with Python
+        By Al Sweigart
+
+FILES
+---------------------------
+    - README:                   this file
+    - rockpaperscissors.py:     main program driver.
+
+RUN
+---------------------------
+    Run with:
+        python rockpaperscissors.py
+
+    - or with a batch file:
+        rockpaperscissors
+
+BUGS/Notes
+---------------------------
